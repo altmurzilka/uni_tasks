@@ -1,2 +1,2 @@
 # uni_tasks
-university task
+university ML task
